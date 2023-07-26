@@ -1,2 +1,4 @@
-# TARP
-This is a Django Based Web Programming project to create a Salon Appointment Booking System
+# Information
+Will be added later
+## sub
+My first github update.
